@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/arthur/Documents/NetBeansProjects/MinhaGrana/src/dados/DadosSimulados.java</file>
+            <file>file:/C:/Users/arthur/Documents/NetBeansProjects/MinhaGrana/src/minhagrana/Lancamento.java</file>
+            <file>file:/C:/Users/arthur/Documents/NetBeansProjects/MinhaGrana/src/banco/conexaoBD.java</file>
+            <file>file:/C:/Users/arthur/Documents/NetBeansProjects/MinhaGrana/src/DAO/CategoriaDAO.java</file>
+            <file>file:/C:/Users/arthur/Documents/NetBeansProjects/MinhaGrana/src/DAO/DespesasDAO.java</file>
+            <file>file:/C:/Users/arthur/Documents/NetBeansProjects/MinhaGrana/src/DAO/ReceitasDAO.java</file>
+            <file>file:/C:/Users/arthur/Documents/NetBeansProjects/MinhaGrana/src/telas/TelaPrincipal.java</file>
+            <file>file:/C:/Users/arthur/Documents/NetBeansProjects/MinhaGrana/src/minhagrana/Despesa.java</file>
+        </group>
+    </open-files>
+</project-private>
