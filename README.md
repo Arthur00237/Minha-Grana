@@ -70,15 +70,6 @@ CREATE TABLE despesa (
 );
 ```
 
-### Dados iniciais
-
-```sql
-INSERT INTO categoria (nome) VALUES
-('Alimentacao'), ('Transporte'), ('Moradia'), ('Saude'), ('Lazer');
-```
-
----
-
 ## ⚙️ Como executar
 
 ### Pré-requisitos
